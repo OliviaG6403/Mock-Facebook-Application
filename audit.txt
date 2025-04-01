@@ -1,0 +1,29 @@
+root is now your friend! YAY
+root is viewing the profile
+gillian is now your friend! YAY
+carolina is now your friend! YAY
+Goodbye root, you've successfully logged out.
+Invalid input.gilian doesn't exist
+gillian is viewing the profile
+gillian's picture, myfirstpic.txt, has successfully been created!
+gillian commented on myfirstpic.txt: HEY
+gillian commented on myfirstpic.txt: ITS
+gillian commented on myfirstpic.txt: MY
+gillian commented on myfirstpic.txt: FIRST
+gillian commented on myfirstpic.txt: PIC!
+Goodbye gillian, you've successfully logged out.
+root is viewing the profile
+root reads myfirstpic.txt as: 
+HEY
+ITS
+MY
+FIRST
+PIC!
+Goodbye root, you've successfully logged out.
+gillian is viewing the profile
+gillian has set the permissions for myfirstpic.txt to rw rw r-.
+Goodbye gillian, you've successfully logged out.
+root is viewing the profile
+Invalid input family doesn't
+gillian is now the owner of the myfirstpic.txt picture.
+Goodbye root, you've successfully logged out.

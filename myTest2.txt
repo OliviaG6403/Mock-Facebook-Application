@@ -1,0 +1,21 @@
+friendadd root
+viewby root
+friendadd gillian
+friendadd carolina
+logout
+viewby gilian
+viewby gillian
+postpicture myfirstpic.txt
+writecomments myfirstpic.txt HEY ITS MY FIRST PIC!
+logout
+viewby root
+readcomments myfirstpic.txt
+logout
+viewby gillian
+chmod myfirstpic.txt rw rw r-
+logout
+viewby root
+chlst myfirstpic.txt family
+chown myfirstpic.txt gillian
+logout
+end

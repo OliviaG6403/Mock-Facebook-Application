@@ -1,0 +1,31 @@
+friendadd root
+viewby root
+friendadd gillian
+friendadd carolina
+friendadd jack
+friendadd daniel
+friendadd jake
+friendadd noelle
+friendadd isabel
+logout
+viewby carolina
+postpicture coolpics.txt
+logout
+viewby root
+friendlist gillian family
+listadd family
+friendlist gillian family
+listadd family
+friendlist daniel family
+friendlist jake family
+friendlist noelle family
+listadd bestfriends
+friendlist carolina bestfriends
+friendlist jack bestfriends
+friendlist isabel bestfriends
+logout
+viewby jack
+friendlist noelle family
+listadd noelle family
+logout
+end
